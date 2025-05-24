@@ -280,3 +280,8 @@ footer {
     background-color: #17BEBB;
     color: white;
 }
+
+.exp {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
